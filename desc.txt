@@ -1,0 +1,5 @@
+Urobil som dve verzie:
+1. prvá verzia (V1) je vytvorená na základe ulo¾enia poµa údajov a ich ïal¹ieho èítania. Ale táto verzia je v¹ak obmedzená pamä»ou PHP, preto¾e pole s mno¾stvom polí spôsobí chybu preteèenia pamäte. Nena¹iel som spôsob, ako to opravi», a ani SplFixedArray tu nepomô¾e, ak bude veµmi veµký súbor.
+2. druhá verzia (V2) umo¾òuje pracova» so súborom akejkoµvek veµkosti, ale má to svoje mínusy.
+
+Zatiaµ som nena¹iel spôsob, ako ulo¾i» veµké pole súèasne do pamäte... Bol by som rád, keby som poznal iné spôsoby rie¹enia tohto problému z va¹ej spätnej väzby
